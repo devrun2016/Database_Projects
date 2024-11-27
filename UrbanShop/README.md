@@ -12,7 +12,7 @@
 ## 3NF
 ![스크린샷 2024-11-27 135900](https://github.com/user-attachments/assets/1761f175-7b19-438c-b217-c480ee186ff3)
 
-## ERD (ERD FIXED | WRONG SPEELING, DATA TYPE)
+## ERD (ERD FIXED | WRONG DATA NAME, DATA TYPE)
 ![Blank diagram](https://github.com/user-attachments/assets/97cb644c-13ec-408d-90b1-2c2883440e2e)
 
 ## Query
