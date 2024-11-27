@@ -13,5 +13,6 @@
 ![스크린샷 2024-11-27 135900](https://github.com/user-attachments/assets/1761f175-7b19-438c-b217-c480ee186ff3)
 
 ## ERD
+![스크린샷 2024-11-27 144020](https://github.com/user-attachments/assets/5d17fb09-a007-4d7f-884e-79a334a77c59)
 
 ## Query
