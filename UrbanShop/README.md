@@ -7,6 +7,7 @@
 ![스크린샷 2024-11-27 134143](https://github.com/user-attachments/assets/05fe672b-e99f-4b5c-9b21-4d59bfea0819)
 
 ## 2NF
+![스크린샷 2024-11-27 134543](https://github.com/user-attachments/assets/da3dc35d-e8d8-416d-a960-411d18dd9055)
 
 ## 3NF
 
