@@ -4,6 +4,8 @@
 ![스크린샷 2024-11-27 131647](https://github.com/user-attachments/assets/751be553-41d3-4708-994f-4ddd38879862)
 
 ## 1NF
+![스크린샷 2024-11-27 133637](https://github.com/user-attachments/assets/a409aab6-b4c7-49a3-8889-3ddac37d22ed)
+
 
 ## 2NF
 
